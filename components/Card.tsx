@@ -12,9 +12,9 @@ const Card = () => {
       </div>
 
       <p className="text-center text-lg font-medium mb-4">
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis mollitia
-        deleniti est! Laboriosam debitis veritatis ex exercitationem dolorum
-        vero placeat itaque perferendis!"
+        &quot;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis
+        mollitia deleniti est! Laboriosam debitis veritatis ex exercitationem
+        dolorum vero placeat itaque perferendis!&quot;
       </p>
       <p className="text-center text-blue-400">Tanakorn Karode</p>
       <p className="text-center text-gray-700">Trainee @Finstable</p>
